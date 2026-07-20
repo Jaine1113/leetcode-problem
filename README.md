@@ -64,6 +64,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jaine1113/leetcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Jaine1113/leetcode-problem/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1748-sum-of-unique-elements](https://github.com/Jaine1113/leetcode-problem/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Jaine1113/leetcode-problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0567-permutation-in-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Jaine1113/leetcode-problem/tree/master/0709-to-lower-case) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jaine1113/leetcode-problem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Jaine1113/leetcode-problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sliding Window
 |  |
 | ------- |
