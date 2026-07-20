@@ -40,6 +40,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Jaine1113/leetcode-problem/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/Jaine1113/leetcode-problem/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Jaine1113/leetcode-problem/tree/master/1991-find-the-middle-index-in-array) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Jaine1113/leetcode-problem/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Jaine1113/leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Jaine1113/leetcode-problem/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jaine1113/leetcode-problem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Jaine1113/leetcode-problem/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Search
 |  |
 | ------- |
