@@ -67,6 +67,7 @@
 | [0268-missing-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Jaine1113/leetcode-problem/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Jaine1113/leetcode-problem/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Jaine1113/leetcode-problem/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0205-isomorphic-strings](https://github.com/Jaine1113/leetcode-problem/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Jaine1113/leetcode-problem/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Jaine1113/leetcode-problem/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Jaine1113/leetcode-problem/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Jaine1113/leetcode-problem/tree/master/0412-fizz-buzz) |
 ## Interactive
 |  |
 | ------- |
