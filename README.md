@@ -28,6 +28,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Jaine1113/leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Jaine1113/leetcode-problem/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Jaine1113/leetcode-problem/tree/master/0986-interval-list-intersections) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [0202-happy-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Jaine1113/leetcode-problem/tree/master/0986-interval-list-intersections) |
 ## String Matching
 |  |
 | ------- |
@@ -230,4 +232,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Jaine1113/leetcode-problem/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
