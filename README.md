@@ -23,6 +23,7 @@
 | [0238-product-of-array-except-self](https://github.com/Jaine1113/leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Jaine1113/leetcode-problem/tree/master/0303-range-sum-query-immutable) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jaine1113/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | [0217-contains-duplicate](https://github.com/Jaine1113/leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jaine1113/leetcode-problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
