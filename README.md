@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jaine1113/leetcode-problem/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Jaine1113/leetcode-problem/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
