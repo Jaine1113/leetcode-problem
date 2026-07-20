@@ -82,6 +82,7 @@
 | [0507-perfect-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0507-perfect-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Jaine1113/leetcode-problem/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jaine1113/leetcode-problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1323-maximum-69-number](https://github.com/Jaine1113/leetcode-problem/tree/master/1323-maximum-69-number) |
 ## Recursion
 |  |
 | ------- |
@@ -239,4 +240,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Jaine1113/leetcode-problem/tree/master/0986-interval-list-intersections) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/Jaine1113/leetcode-problem/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
