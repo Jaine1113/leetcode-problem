@@ -47,6 +47,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Jaine1113/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0412-fizz-buzz](https://github.com/Jaine1113/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jaine1113/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Jaine1113/leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jaine1113/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +143,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaine1113/leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0202-happy-number) |
+| [0567-permutation-in-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0567-permutation-in-string) |
 ## String Matching
 |  |
 | ------- |
