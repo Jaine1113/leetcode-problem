@@ -57,6 +57,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jaine1113/leetcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Jaine1113/leetcode-problem/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -254,4 +255,16 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jaine1113/leetcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Tree
+|  |
+| ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Jaine1113/leetcode-problem/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Jaine1113/leetcode-problem/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Jaine1113/leetcode-problem/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 <!---LeetCode Topics End-->
