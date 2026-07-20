@@ -30,6 +30,7 @@
 | [0076-minimum-window-substring](https://github.com/Jaine1113/leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Jaine1113/leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Jaine1113/leetcode-problem/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0069-sqrtx](https://github.com/Jaine1113/leetcode-problem/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Jaine1113/leetcode-problem/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaine1113/leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
