@@ -26,6 +26,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Jaine1113/leetcode-problem/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Jaine1113/leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Jaine1113/leetcode-problem/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +201,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Jaine1113/leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Jaine1113/leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Jaine1113/leetcode-problem/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Jaine1113/leetcode-problem/tree/master/0724-find-pivot-index) |
 ## Simulation
 |  |
 | ------- |
