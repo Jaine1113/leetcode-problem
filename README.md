@@ -81,6 +81,7 @@
 | [0412-fizz-buzz](https://github.com/Jaine1113/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0507-perfect-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Jaine1113/leetcode-problem/tree/master/0989-add-to-array-form-of-integer) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jaine1113/leetcode-problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
