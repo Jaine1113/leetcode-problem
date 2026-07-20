@@ -68,6 +68,7 @@
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Jaine1113/leetcode-problem/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1748-sum-of-unique-elements](https://github.com/Jaine1113/leetcode-problem/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jaine1113/leetcode-problem/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2351-first-letter-to-appear-twice](https://github.com/Jaine1113/leetcode-problem/tree/master/2351-first-letter-to-appear-twice) |
 ## Linked List
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0709-to-lower-case](https://github.com/Jaine1113/leetcode-problem/tree/master/0709-to-lower-case) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jaine1113/leetcode-problem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jaine1113/leetcode-problem/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2351-first-letter-to-appear-twice](https://github.com/Jaine1113/leetcode-problem/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -212,12 +214,14 @@
 | [0169-majority-element](https://github.com/Jaine1113/leetcode-problem/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/Jaine1113/leetcode-problem/tree/master/1748-sum-of-unique-elements) |
+| [2351-first-letter-to-appear-twice](https://github.com/Jaine1113/leetcode-problem/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Jaine1113/leetcode-problem/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Jaine1113/leetcode-problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/Jaine1113/leetcode-problem/tree/master/2351-first-letter-to-appear-twice) |
 ## Enumeration
 |  |
 | ------- |
