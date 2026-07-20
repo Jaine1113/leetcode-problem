@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Jaine1113/leetcode-problem/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Jaine1113/leetcode-problem/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Jaine1113/leetcode-problem/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jaine1113/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Jaine1113/leetcode-problem/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Jaine1113/leetcode-problem/tree/master/0049-group-anagrams) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Jaine1113/leetcode-problem/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
