@@ -19,6 +19,7 @@
 | [0189-rotate-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Jaine1113/leetcode-problem/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaine1113/leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Jaine1113/leetcode-problem/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0169-majority-element](https://github.com/Jaine1113/leetcode-problem/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Jaine1113/leetcode-problem/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Jaine1113/leetcode-problem/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Jaine1113/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Jaine1113/leetcode-problem/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Jaine1113/leetcode-problem/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
