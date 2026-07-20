@@ -36,6 +36,7 @@
 | [0013-roman-to-integer](https://github.com/Jaine1113/leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Jaine1113/leetcode-problem/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Jaine1113/leetcode-problem/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Jaine1113/leetcode-problem/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -87,4 +88,9 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Jaine1113/leetcode-problem/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Jaine1113/leetcode-problem/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Jaine1113/leetcode-problem/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
