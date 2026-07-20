@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Jaine1113/leetcode-problem/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jaine1113/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/Jaine1113/leetcode-problem/tree/master/0031-next-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Jaine1113/leetcode-problem/tree/master/0031-next-permutation) |
 ## String Matching
 |  |
 | ------- |
