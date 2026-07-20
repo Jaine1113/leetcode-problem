@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/Jaine1113/leetcode-problem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Jaine1113/leetcode-problem/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Jaine1113/leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jaine1113/leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Jaine1113/leetcode-problem/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/Jaine1113/leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Jaine1113/leetcode-problem/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaine1113/leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Jaine1113/leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,4 +147,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Jaine1113/leetcode-problem/tree/master/0204-count-primes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Jaine1113/leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
