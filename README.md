@@ -55,11 +55,13 @@
 | [0189-rotate-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Jaine1113/leetcode-problem/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Jaine1113/leetcode-problem/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jaine1113/leetcode-problem/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Jaine1113/leetcode-problem/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Jaine1113/leetcode-problem/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Jaine1113/leetcode-problem/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Jaine1113/leetcode-problem/tree/master/0231-power-of-two) |
 ## Enumeration
 |  |
 | ------- |
