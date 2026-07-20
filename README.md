@@ -100,6 +100,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jaine1113/leetcode-problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Jaine1113/leetcode-problem/tree/master/1323-maximum-69-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Jaine1113/leetcode-problem/tree/master/2119-a-number-after-a-double-reversal) |
+| [2413-smallest-even-multiple](https://github.com/Jaine1113/leetcode-problem/tree/master/2413-smallest-even-multiple) |
 ## Recursion
 |  |
 | ------- |
@@ -233,6 +234,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Jaine1113/leetcode-problem/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Jaine1113/leetcode-problem/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/Jaine1113/leetcode-problem/tree/master/2413-smallest-even-multiple) |
 ## Prefix Sum
 |  |
 | ------- |
