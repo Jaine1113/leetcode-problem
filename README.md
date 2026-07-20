@@ -11,6 +11,7 @@
 | [0041-first-missing-positive](https://github.com/Jaine1113/leetcode-problem/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Jaine1113/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Jaine1113/leetcode-problem/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Jaine1113/leetcode-problem/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0009-palindrome-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Jaine1113/leetcode-problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Jaine1113/leetcode-problem/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Jaine1113/leetcode-problem/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
