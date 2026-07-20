@@ -37,6 +37,7 @@
 | [1550-three-consecutive-odds](https://github.com/Jaine1113/leetcode-problem/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Jaine1113/leetcode-problem/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Jaine1113/leetcode-problem/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/Jaine1113/leetcode-problem/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0567-permutation-in-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jaine1113/leetcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Jaine1113/leetcode-problem/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1748-sum-of-unique-elements](https://github.com/Jaine1113/leetcode-problem/tree/master/1748-sum-of-unique-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Jaine1113/leetcode-problem/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
+| [1748-sum-of-unique-elements](https://github.com/Jaine1113/leetcode-problem/tree/master/1748-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
