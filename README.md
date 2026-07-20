@@ -41,6 +41,7 @@
 | [0217-contains-duplicate](https://github.com/Jaine1113/leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jaine1113/leetcode-problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Jaine1113/leetcode-problem/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Jaine1113/leetcode-problem/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jaine1113/leetcode-problem/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -197,4 +200,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Jaine1113/leetcode-problem/tree/master/0303-range-sum-query-immutable) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
