@@ -65,6 +65,7 @@
 | [0263-ugly-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Jaine1113/leetcode-problem/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/Jaine1113/leetcode-problem/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Jaine1113/leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Jaine1113/leetcode-problem/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Jaine1113/leetcode-problem/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
