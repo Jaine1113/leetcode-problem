@@ -58,6 +58,7 @@
 | [0058-length-of-last-word](https://github.com/Jaine1113/leetcode-problem/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Jaine1113/leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Jaine1113/leetcode-problem/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Jaine1113/leetcode-problem/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Jaine1113/leetcode-problem/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 ## String Matching
 |  |
 | ------- |
