@@ -73,6 +73,7 @@
 | [0292-nim-game](https://github.com/Jaine1113/leetcode-problem/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Jaine1113/leetcode-problem/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Jaine1113/leetcode-problem/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0507-perfect-number) |
 ## Recursion
 |  |
 | ------- |
