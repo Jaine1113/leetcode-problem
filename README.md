@@ -38,6 +38,7 @@
 | [1672-richest-customer-wealth](https://github.com/Jaine1113/leetcode-problem/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Jaine1113/leetcode-problem/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Jaine1113/leetcode-problem/tree/master/1748-sum-of-unique-elements) |
+| [1929-concatenation-of-array](https://github.com/Jaine1113/leetcode-problem/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -235,6 +236,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Jaine1113/leetcode-problem/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Jaine1113/leetcode-problem/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/Jaine1113/leetcode-problem/tree/master/1929-concatenation-of-array) |
 ## Interactive
 |  |
 | ------- |
