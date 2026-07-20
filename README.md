@@ -35,6 +35,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jaine1113/leetcode-problem/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Jaine1113/leetcode-problem/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/Jaine1113/leetcode-problem/tree/master/1550-three-consecutive-odds) |
+| [1672-richest-customer-wealth](https://github.com/Jaine1113/leetcode-problem/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -271,4 +272,8 @@
 |  |
 | ------- |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Jaine1113/leetcode-problem/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Jaine1113/leetcode-problem/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
