@@ -131,6 +131,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jaine1113/leetcode-problem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jaine1113/leetcode-problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Jaine1113/leetcode-problem/tree/master/2351-first-letter-to-appear-twice) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Jaine1113/leetcode-problem/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Jaine1113/leetcode-problem/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jaine1113/leetcode-problem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Jaine1113/leetcode-problem/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Jaine1113/leetcode-problem/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Binary Search
 |  |
 | ------- |
