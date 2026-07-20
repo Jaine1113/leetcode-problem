@@ -29,6 +29,7 @@
 | [0724-find-pivot-index](https://github.com/Jaine1113/leetcode-problem/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Jaine1113/leetcode-problem/tree/master/0986-interval-list-intersections) |
+| [0989-add-to-array-form-of-integer](https://github.com/Jaine1113/leetcode-problem/tree/master/0989-add-to-array-form-of-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0367-valid-perfect-square](https://github.com/Jaine1113/leetcode-problem/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Jaine1113/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0507-perfect-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/Jaine1113/leetcode-problem/tree/master/0989-add-to-array-form-of-integer) |
 ## Recursion
 |  |
 | ------- |
