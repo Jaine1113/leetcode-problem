@@ -27,6 +27,7 @@
 | [0485-max-consecutive-ones](https://github.com/Jaine1113/leetcode-problem/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Jaine1113/leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Jaine1113/leetcode-problem/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [0189-rotate-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/Jaine1113/leetcode-problem/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 | [0242-valid-anagram](https://github.com/Jaine1113/leetcode-problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
