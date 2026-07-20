@@ -58,6 +58,7 @@
 | [0202-happy-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Jaine1113/leetcode-problem/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Jaine1113/leetcode-problem/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Jaine1113/leetcode-problem/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -157,9 +158,14 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Jaine1113/leetcode-problem/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Jaine1113/leetcode-problem/tree/master/0258-add-digits) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaine1113/leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Jaine1113/leetcode-problem/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Jaine1113/leetcode-problem/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
