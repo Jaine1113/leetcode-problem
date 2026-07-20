@@ -24,6 +24,7 @@
 | [0268-missing-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Jaine1113/leetcode-problem/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jaine1113/leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Jaine1113/leetcode-problem/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
