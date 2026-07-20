@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/Jaine1113/leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Jaine1113/leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Jaine1113/leetcode-problem/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/Jaine1113/leetcode-problem/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaine1113/leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Jaine1113/leetcode-problem/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Jaine1113/leetcode-problem/tree/master/0303-range-sum-query-immutable) |
 ## Simulation
 |  |
 | ------- |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Jaine1113/leetcode-problem/tree/master/0292-nim-game) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Jaine1113/leetcode-problem/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
