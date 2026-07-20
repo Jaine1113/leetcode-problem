@@ -36,6 +36,7 @@
 | [1470-shuffle-the-array](https://github.com/Jaine1113/leetcode-problem/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/Jaine1113/leetcode-problem/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Jaine1113/leetcode-problem/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/Jaine1113/leetcode-problem/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -223,6 +224,7 @@
 | [0238-product-of-array-except-self](https://github.com/Jaine1113/leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Jaine1113/leetcode-problem/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Jaine1113/leetcode-problem/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/Jaine1113/leetcode-problem/tree/master/1732-find-the-highest-altitude) |
 ## Simulation
 |  |
 | ------- |
