@@ -301,4 +301,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Jaine1113/leetcode-problem/tree/master/1672-richest-customer-wealth) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Jaine1113/leetcode-problem/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
